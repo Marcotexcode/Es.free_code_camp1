@@ -1,0 +1,61 @@
+* {
+  margin: 0;
+
+}
+
+ /* conenuto */
+#main {
+  margin: 0 auto;
+  width: 98%;
+  background: #cccccc;
+}
+
+
+/* titolo */
+.title_sub {
+  text-align: center;
+  height: 150px;
+  background: #cccccc;
+}
+
+#title {
+  font-size: 40px;
+}
+
+.title_sub p {
+  margin-top: 20px;
+  font-size:20px;
+}
+
+/* image */
+
+#img_div {
+  margin: 0 auto;
+  width: 95%;
+  text-align: center;
+  background: white;
+}
+
+#image {
+  width: 70%;
+}
+
+#img-caption {
+  margin-top: 10px;
+  font-size: 17px;
+}
+
+/* info */
+
+#tribute-info {
+  text-align: center;
+}
+
+#tribute-info p {
+  font-size: 20px;
+  margin-top: 20px;
+}
+
+#tribute-link {
+
+}
