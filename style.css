@@ -4,17 +4,11 @@
 }
 
  /* conenuto */
-#main {
-  margin: 0 auto;
-  width: 98%;
-  background: #cccccc;
-}
 
 
 /* titolo */
 .title_sub {
   text-align: center;
-  height: 150px;
   background: #cccccc;
 }
 
@@ -56,6 +50,26 @@
   margin-top: 20px;
 }
 
-#tribute-link {
 
-}
+/* responsive */
+
+@media screen and (max-width: 800px) {
+  
+  .title_sub {
+    padding: 14px; 
+  }
+  
+  #title {
+    font-size: 34px;
+  }
+
+  #img_div {
+    margin: 10px auto;
+    width: 100%;
+  }
+
+  #image {
+    width: 100%;
+  }
+
+  }
